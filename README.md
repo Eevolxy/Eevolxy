@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Eevolxy
 I am a passionate developer who loves to deepen my knowledge in **software and web development**
 ## About me
-- 🌱 Currently learning **Java, HTML, CSS, Javascript, and SQL**
+- 🌱 Currently learning **Java, HTML, CSS, Go, Javascript, and SQL**
 - 🔭 I am working on a **multi-purpose bot** using **Java**
 - 💫 I love to **develop programs** that's simplify users' lives (and mine)
 ## 🛠️ Languages & Tools
@@ -13,7 +13,7 @@ I am a passionate developer who loves to deepen my knowledge in **software and w
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/GoLang-45A1FC?style=for-the-badge&logo=goland&logoColor=white" alt="GoLang"/>
+  <img src="https://img.shields.io/badge/Go-45A1FC?style=for-the-badge&logo=goland&logoColor=white" alt="Go"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code"/>
 </p>
